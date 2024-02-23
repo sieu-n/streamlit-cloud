@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Set the page title
-st.title('Welcome to My Streamlit App')
+st.title('Welcome to My First App')
 
 # Ask the user for their name
 user_name = st.text_input('What is your name?')
